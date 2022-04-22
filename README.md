@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @HDEVCODER</h1>
-<h3 align="center">A self-taught programmer and born at very little age😜</h3>
+<h3 align="center">A self-taught programmer and born at very little age </h3>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/CoderHdev?label=CoderHdev&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/HDEVCODER?logo=GitHub&style=for-the-badge)
@@ -11,7 +11,8 @@
 - 👯 I’m looking to collaborate with **other content creators**
 
 - ⚡ Fun fact **I love to play FootBall and Coding**
-
+personal email : abdullah.mansour97@gmail.com
+Google Play Google Play Google Play Google Play
 <!-- ### Connect with me:
 
 <a href="https://twitter.com/CoderHdev" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="CoderHdev" height="22" width="22" /></a>
