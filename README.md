@@ -13,12 +13,11 @@
 - ⚡ Fun fact **I love to play FootBall and Coding**
 personal email : abdullah.mansour97@gmail.com
 Google Play Google Play Google Play Google Play
-<!-- ### Connect with me:
 
-<a href="https://twitter.com/CoderHdev" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="CoderHdev" height="22" width="22" /></a>
-<a href="https://www.youtube.com/channel/UCVPdBBT-nIPT4nvGP5Fktsw" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="UCVPdBBT-nIPT4nvGP5Fktsw" height="22" width="22" /></a>
+
+<p><a href="http://Wa.me/00967735466377" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp%20bussines-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="https://www.facebook.com/alhlal209" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.linkedin.com/in/hdev-coder-605a90234" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.youtube.com/channel/UCVPdBBT-nIPT4nvGP5Fktsw" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a><p>
+
  
- -->
 ### Buy Me A Coffee:
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/alhamodi)
 
