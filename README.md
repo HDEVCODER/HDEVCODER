@@ -12,13 +12,14 @@
 
 - ⚡ Fun fact **I love to play FootBall and Coding**
 
-### Connect with me:
+<!-- ### Connect with me:
 
 <a href="https://twitter.com/CoderHdev" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="CoderHdev" height="22" width="22" /></a>
 <a href="https://www.youtube.com/channel/UCVPdBBT-nIPT4nvGP5Fktsw" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="UCVPdBBT-nIPT4nvGP5Fktsw" height="22" width="22" /></a>
-
-
-<br />
+ 
+ -->
+### Buy Me A Coffee:
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/alhamodi)
 
 ### Languages and Tools:
 
