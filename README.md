@@ -4,7 +4,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/CoderHdev?label=CoderHdev&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/HDEVCODER?logo=GitHub&style=for-the-badge)
 
-- 🔭 I’m currently working on [Novel Soft](http://novelsoft.com.co/), [HDEV Coder](https://www.youtube.com/channel/UCVPdBBT-nIPT4nvGP5Fktsw)
+- 🔭 I’m currently working on [Novel Soft](http://novelsoft.com.co/), [HDEV Coder](https://www.youtube.com/HDEVCoder)
 
 - 🌱 I’m currently learning **Flutter, Laravel**
 
