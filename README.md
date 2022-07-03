@@ -68,8 +68,8 @@ and iOS
 
 <hr>
 
-### Ko-Fe:
-[!["Buy Me A tea"](https://storage.ko-fi.com/cdn/kofi_stroke_cup.svg)](https://ko-fi.com/alhamodi)
+### Buy Me A tea by Ko-Fe:
+[!["Buy Me A tea"]( https://www.vectorlogo.zone/logos/ko-fi/ko-fi-icon.svg)](https://ko-fi.com/alhamodi)
 
 ### Buy Me A Coffee:
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/alhamodi)
