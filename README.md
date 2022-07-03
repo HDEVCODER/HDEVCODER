@@ -26,7 +26,7 @@
 
 <h2> Samples from my projects </h2>
 
-### Kmsarf:exchange rates in Yemen
+## Kmsarf:exchange rates in Yemen.
 If you need to follow the exchange rates of the dollar and foreign currencies, moment by moment, this application will be your perfect choice
 How much exchange application.
 It is an application concerned with providing exchange rates in the Republic of Yemen against some foreign currencies traded in the exchange rates for foreign currencies mainly in the governorates of Sanaa and Aden as soon as they change in the local market
@@ -44,8 +44,10 @@ To Do is a task management app to help you stay organized and manage your day-to
 <!--  <a href="https://apps.apple.com/us/app/medical-empire/id1465106135" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a> -->
 <p>
 
-<hr> 
+<hr>
+
 ## ‏دليل الطاعة على قدر الاستطاعة‎
+
 A nice brief that the author has collected for students of religious ligaments and their educational centers. It contains remembrances arranged according to times for the novice in the path of behavior.
 
 The adhkaar is a fortress and protection for the Muslim and connects him to his Lord and his Prophet, and protects him from the whispers of Satan and the symptoms of the soul and gives comfort and peace of mind in the soul. Properties
