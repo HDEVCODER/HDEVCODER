@@ -28,7 +28,7 @@
 
 ### Kmsarf:exchange rates in Yemen
 If you need to follow the exchange rates of the dollar and foreign currencies, moment by moment, this application will be your perfect choice
-How much exchange application
+How much exchange application.
 It is an application concerned with providing exchange rates in the Republic of Yemen against some foreign currencies traded in the exchange rates for foreign currencies mainly in the governorates of Sanaa and Aden as soon as they change in the local market
 
 <p><a href="https://play.google.com/store/apps/details?id=com.hdev.kmsarf" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
@@ -45,8 +45,7 @@ To Do is a task management app to help you stay organized and manage your day-to
 <p>
 
 <hr> 
-
-### ‏دليل الطاعة على قدر الاستطاعة‎
+## ‏دليل الطاعة على قدر الاستطاعة‎
 A nice brief that the author has collected for students of religious ligaments and their educational centers. It contains remembrances arranged according to times for the novice in the path of behavior.
 
 The adhkaar is a fortress and protection for the Muslim and connects him to his Lord and his Prophet, and protects him from the whispers of Satan and the symptoms of the soul and gives comfort and peace of mind in the soul. Properties
@@ -55,10 +54,9 @@ The adhkaar is a fortress and protection for the Muslim and connects him to his 
 <!--  <a href="https://apps.apple.com/us/app/medical-empire/id1465106135" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a> -->
 <p>
 
-<hr>
 <hr> 
 
-### ‏تفعيل 4G يمن موبايل‎
+## ‏تفعيل 4G يمن موبايل‎
 Activating the 4G Yemen Mobile Today, we will learn how to activate the 4G LTE service for Yemen mobile users, Yemen mobile 4G LTE for Android, and set the 4G access points for Yemen Mobile.
 and iOS
 
