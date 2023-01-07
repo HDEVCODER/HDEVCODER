@@ -20,7 +20,15 @@
 - business email : hdevcoder@gmail.com
 - personal email : alhamodi65@gmail.com
 
-<p><a href="http://Wa.me/00967735466377" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp%20bussines-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="https://www.facebook.com/alhlal209" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.linkedin.com/in/hdev-coder-605a90234" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.youtube.com/channel/UCVPdBBT-nIPT4nvGP5Fktsw" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a><a href="https://www.hdevcoder.com/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/chrome-FF0000.svg?style=for-the-badge&logo=chrome&logoColor=white" /></a><p>
+<p>
+ <a href="http://Wa.me/00967735466377" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp%20bussines-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> 
+ <a href="https://www.facebook.com/alhlal209" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
+ </a>
+ <a href="https://www.linkedin.com/in/hdev-coder-605a90234" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+ <a href="https://www.youtube.com/channel/UCVPdBBT-nIPT4nvGP5Fktsw" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" />
+ </a>
+ <a href="https://www.hdevcoder.com/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/google-F93000.svg?style=for-the-badge&logo=google&logoColor=white" /></a>
+<p>
 
  <hr>
 
