@@ -17,7 +17,7 @@
 <!-- <h3>Where to find me</h3>
 <p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github2" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> -->
 
-- business email : hdevcoder@gmail.com
+- business email : contact@hdevcoder.com
 - personal email : alhamodi65@gmail.com
 
 <p>
