@@ -58,7 +58,7 @@ How much exchange application.
 It is an application concerned with providing exchange rates in the Republic of Yemen against some foreign currencies traded in the exchange rates for foreign currencies mainly in the governorates of Sanaa and Aden as soon as they change in the local market
 
 <p><a href="https://play.google.com/store/apps/details?id=com.hdev.kmsarf" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
-<!--  <a href="https://apps.apple.com/us/app/medical-empire/id1465106135" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a> -->
+  <a href="https://apps.apple.com/app/%D9%83%D9%85-%D8%A7%D9%84%D8%B5%D8%B1%D9%81/id1666023803" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a> 
 <p>
 
 <hr> 
